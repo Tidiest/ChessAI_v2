@@ -1,3 +1,3 @@
 # ChessAI_v2
 
-This is a project exploring chess programming and advanced algorithms to make pieces go slide-slide on the board.
+This is a project exploring chess programming, focusing on advanced algorithms, move generation, search and evaluation to make pieces go slide-slide on the board.
